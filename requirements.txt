@@ -1,0 +1,9 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+gradio
+pypdf2
+python-dotenv
+faiss-cpu
+tiktoken
