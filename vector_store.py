@@ -96,4 +96,3 @@ class VectorStore:
             "embedding_model": "all-MiniLM-L6-v2",
             "vector_db": "ChromaDB"
         }
-
